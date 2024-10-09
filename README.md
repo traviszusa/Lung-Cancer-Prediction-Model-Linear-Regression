@@ -44,7 +44,7 @@ The <b>Lung Cancer Prediction Model</b> aims to predict the likelihood of lung c
 
 ### Built With
 
-* ![Python]
+[![Python][Python]][Python-url]
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
@@ -93,3 +93,4 @@ Answer each question to the end as the user feels and click the “Predict” bu
 
 
 [Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-url]: https://www.python.org 
