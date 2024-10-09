@@ -11,8 +11,8 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#installation">Prerequisites</a></li>
+        <li><a href="#website">Installation</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -44,10 +44,9 @@ The <b>Lung Cancer Prediction Model</b> aims to predict the likelihood of lung c
 
 ### Built With
 
-* [![Python][Python]][Python-url]
+* ![Python]
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -72,7 +71,6 @@ The <b>Lung Cancer Prediction Model</b> aims to predict the likelihood of lung c
    pip install -r requirements.txt
    ```
 
-
 ### Website
 
 1. Activate the environment before
@@ -86,11 +84,12 @@ The <b>Lung Cancer Prediction Model</b> aims to predict the likelihood of lung c
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
 Answer each question to the end as the user feels and click the “Predict” button to make predictions based on the user's answers to the 12 questions.
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
+
+
+[Python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
